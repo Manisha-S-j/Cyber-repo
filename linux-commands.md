@@ -1,9 +1,24 @@
-# Basic Linux Commands I Learned
+# Basic Linux Commands I Learned  
 
-1. `pwd` → Shows current directory  
-2. `ls` → Lists files in current directory  
-3. `cd foldername` → Change directory  
-4. `mkdir test` → Create a folder named test  
-5. `rmdir test` → Remove a folder  
-6. `touch file.txt` → Create a file  
-7. `cat file.txt` → View file contents  
+- `pwd` – shows current working directory
+- `ls` – list files
+- `cd` – change directory
+- `ls -R` – recursive listing
+- `cat` – display file content
+- `man` – manual/help
+- `tr` – translate/replace characters
+- `mkdir` – make directory
+- `touch` – create file
+- `cp` – copy file
+- `mv` – move/rename file
+- `rm` – delete file
+- `cp -R` – copy folder
+- `rmdir` / `rm -r` – remove directory
+- `sudo` – run as admin
+- `df` – check disk space
+- `head` / `tail` – show first/last lines of file
+- `diff` – compare files
+- `locate` / `find` – search for files
+- File Permissions (`chmod`, `chown`)
+
+
