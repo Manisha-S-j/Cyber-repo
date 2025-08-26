@@ -11,6 +11,8 @@
  - website_checker.py
 ### 2. IP Checker
  - ip_checker.py
+ ### 3. PING Script
+- ping_script.py
 
 
 
@@ -22,7 +24,8 @@
  - python website_checker.py 
 ### 2. IP Checker
  - python ip_checker.py
-
+### 3. PING Script
+- python ping_script.py
 
 
 ##  Example output in output folder
